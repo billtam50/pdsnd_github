@@ -13,6 +13,7 @@ Version
         1. Recieve answers from user, and convert them to lower case.
         2. Offer option for user to see 5 rows of raw data, once a time.
     v3 - Update a line for Github Project
+    v4 - Update a line for refactoring
 
 Inputs
     User inputs - city name, month, day of week
