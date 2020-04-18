@@ -12,7 +12,7 @@ Version
     v2 - Second submission, modify the program as below 
         1. Recieve answers from user, and convert them to lower case.
         2. Offer option for user to see 5 rows of raw data, once a time.
-    v3 - Update a line for Github Project
+    v3 - Update a line for Github Project 18 April 2020 7:12pm
 
 Inputs
     User inputs - city name, month, day of week
